@@ -1,6 +1,6 @@
 ### Here's is what I'm working on 👋
 
-- 🔭 I’m currently working on getting my Post Graduate Diploma
+- 🔭 I’m currently working on finishing my Post Graduate Diploma
 - 🌱 I’m currently learning JavaScript and Python.
 - 👯 I’m looking to collaborate on cool mini web projects.
 - 🤔 I’m looking for help with interviews!
