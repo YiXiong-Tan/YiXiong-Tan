@@ -7,7 +7,7 @@
 - 💬 Ask me about my life in New Zealand.
 - 📫 How to reach me: tanyixiong27@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I actually like low-profile keyboards.
+- ⚡ Fun fact: I like low-profile keyboards.
 
  
 
