@@ -1,4 +1,7 @@
+![Imagination](https://github.com/ianyxtan/ianyxtan/blob/main/imagination.png)
+
 ### Things I would like to do in 2022: 
+
 - [ ] Complete Live stream Project
 - [ ] Learn Typescript
 - [ ] Finish Coursera AI course
