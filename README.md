@@ -1,4 +1,5 @@
-
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianyxtan&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianyxtan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Things I would like to do in 2022: 
+- [ ] Complete Live stream Project
+- [ ] Learn Typescript
+- [ ] Finish Coursera AI course
+- [ ] Learn some blockchain dev
