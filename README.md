@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 quote of the day:
   <h1 align="center">Humility is a sign of strength.</h1>
 </p>
