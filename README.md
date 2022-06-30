@@ -1,6 +1,6 @@
 <div align="center">
 quote of the day:
-  <h1 align="center">Humility is a sign of strength.</h1>
+  <h1 align="center" style="color:red">Humility is a sign of strength.</h1>
 </div>
 
 
