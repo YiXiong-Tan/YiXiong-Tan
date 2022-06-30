@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ianyxtan/ianyxtan/blob/main/imagination.png?raw=true" alt="Sublime's custom image"/>
+  <h1>Humility is a sign of strength.</h1>
 </p>
 
 ### Things I would like to do in 2022: 
