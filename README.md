@@ -1,6 +1,8 @@
 <p align="center">
-  <h1>Humility is a sign of strength.</h1>
+quote of the day:
+  <h1 align="center">Humility is a sign of strength.</h1>
 </p>
+
 
 ### Things I would like to do in 2022: 
 
