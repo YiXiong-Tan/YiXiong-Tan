@@ -1,7 +1,7 @@
-<p>
+<div align="center">
 quote of the day:
   <h1 align="center">Humility is a sign of strength.</h1>
-</p>
+</div>
 
 
 ### Things I would like to do in 2022: 
